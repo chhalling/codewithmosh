@@ -3,7 +3,10 @@
 This is the code I wrote (copied with modifications) while taking
 Mosh Hamedani's courses.
 
-The js_basics contains the code from the JavaScript Basics course.
+The js_basics contains the code from the JavaScript Basics for Beginners course.
+
+The oo_prog_in_js directory contains the code from the Object-Oriented Programming
+in JavaScript course.
 
 See https://codewithmosh.com/ for more information.
 
